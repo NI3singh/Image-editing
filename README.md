@@ -3,7 +3,6 @@
 This project provides a user-friendly web interface for the powerful **Qwen-Image-Edit** model, allowing you to perform sophisticated, instruction-based image editing directly in your browser. The application is built with Gradio and is optimized to run locally on AMD GPUs using the ROCm software stack.
 
 ![Screenshot](Screenshot.png)
-*(Replace with your actual screenshot)*
 
 ## 🌟 Features
 
